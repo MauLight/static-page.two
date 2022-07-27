@@ -1,6 +1,6 @@
 import React from "react";
 
-const Footer = (props) => {
+const Footer = () => {
     return(
         <footer>
             <small id="small">© 2022 Mau Luz develoment. All rights reserved.</small>
